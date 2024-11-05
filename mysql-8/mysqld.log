@@ -1,0 +1,726 @@
+2024-10-09T23:47:55.170151Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-09T23:47:55.170525Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-09T23:47:55.171172Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 1864
+2024-10-09T23:47:55.455752Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-09T23:47:56.353795Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-09T23:47:57.797029Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-09T23:47:57.830453Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-09T23:47:57.831739Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-09T23:47:57.989480Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-09T23:47:57.989700Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-11T06:28:29.747052Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-11T06:28:29.747816Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-11T06:28:29.748325Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 16144
+2024-10-11T06:28:29.832719Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-11T06:28:31.085156Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-11T06:28:32.130535Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-11T06:28:32.173960Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-11T06:28:32.403939Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-11T06:28:32.454170Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-11T06:28:32.457097Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-11T06:28:32.686669Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-11T06:28:32.686941Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-13T04:53:45.422276Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-13T04:53:45.437071Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-13T04:53:45.439282Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 14676
+2024-10-13T04:53:46.002873Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-13T04:53:50.059425Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-13T04:53:52.686163Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-13T04:53:52.702745Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-13T04:53:53.212971Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-13T04:53:53.312480Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-13T04:53:53.318589Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-13T04:53:54.842771Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-13T04:53:54.843385Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-14T01:25:11.482487Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-14T01:25:11.484889Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-14T01:25:11.485352Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 11092
+2024-10-14T01:25:11.780449Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-14T01:25:13.857050Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-14T01:25:14.767535Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-14T01:25:14.785798Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-14T01:25:14.862669Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-14T01:25:14.929172Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-14T01:25:14.930164Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-14T01:25:15.081561Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-14T01:25:15.081949Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-14T10:11:34.103541Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-14T10:11:34.105976Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-14T10:11:34.106277Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 16556
+2024-10-14T10:11:34.453434Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-14T10:11:36.414374Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-14T10:11:37.814963Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-14T10:11:37.834069Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-14T10:11:37.984641Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-14T10:11:38.024427Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-14T10:11:38.025612Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-14T10:11:38.326273Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-14T10:11:38.327244Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-15T02:32:22.190782Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T02:32:22.193268Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T02:32:22.193688Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 14752
+2024-10-15T02:32:22.362385Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T02:32:24.946809Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T02:32:25.996779Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-15T02:32:26.025477Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-15T02:32:26.175223Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T02:32:26.223228Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T02:32:26.224854Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T02:32:26.685196Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-15T02:32:26.685665Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-15T02:37:32.442608Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T02:37:32.442951Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T02:37:32.443078Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 13328
+2024-10-15T02:37:33.148381Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T02:37:33.154316Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T02:37:33.156667Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T02:37:33.160622Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T02:37:33.163846Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T02:37:33.165254Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T02:37:33.184326Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T16:03:50.839538Z 1198 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-10-15T16:11:57.749474Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T16:11:57.750814Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T16:11:57.751188Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 10968
+2024-10-15T16:11:58.312354Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T16:11:58.321565Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:11:58.324640Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:11:58.330413Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T16:11:58.337636Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T16:11:58.338983Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T16:11:58.363951Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T16:17:48.119459Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T16:17:48.122854Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T16:17:48.123202Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 15092
+2024-10-15T16:17:48.573918Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T16:17:50.563784Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T16:17:52.501635Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-15T16:17:52.524270Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-15T16:17:52.644757Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T16:17:52.707570Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T16:17:52.709517Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T16:17:53.325484Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-15T16:17:53.328069Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-15T16:20:08.084590Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T16:20:08.085542Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T16:20:08.085654Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 11832
+2024-10-15T16:20:08.248435Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T16:20:08.251678Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:20:08.253155Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:20:08.255920Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T16:20:08.258717Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T16:20:08.259904Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T16:20:08.271683Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T16:20:10.390170Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T16:20:10.390343Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T16:20:10.390453Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 21268
+2024-10-15T16:20:10.525056Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T16:20:10.528649Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:20:10.530524Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:20:10.533824Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T16:20:10.537495Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T16:20:10.538977Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T16:20:10.552801Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T16:20:12.725409Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T16:20:12.727610Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T16:20:12.728044Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 18312
+2024-10-15T16:20:12.853515Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T16:20:12.857312Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:20:12.858807Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:20:12.860123Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T16:20:12.861860Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T16:20:12.862973Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T16:20:12.872884Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T16:41:40.403155Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T16:41:40.406141Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T16:41:40.406521Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 3056
+2024-10-15T16:41:40.679789Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T16:41:40.684267Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:41:40.685897Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:41:40.689270Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T16:41:40.692481Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T16:41:40.693802Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T16:41:40.710198Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T16:54:32.729982Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T16:54:32.736259Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T16:54:32.736628Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 17196
+2024-10-15T16:54:33.184328Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T16:54:35.143919Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T16:54:37.050057Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-15T16:54:37.066705Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-15T16:54:37.194351Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T16:54:37.266656Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T16:54:37.268008Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T16:54:37.843670Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-15T16:54:37.845851Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-15T16:58:10.634181Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T16:58:10.635121Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T16:58:10.635300Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 13732
+2024-10-15T16:58:10.816073Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T16:58:10.820177Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:58:10.822119Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T16:58:10.827253Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T16:58:10.830641Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T16:58:10.831717Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T16:58:10.847560Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T17:03:14.483378Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T17:03:14.488366Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T17:03:14.489168Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 21380
+2024-10-15T17:03:15.001417Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T17:03:17.115111Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T17:03:17.799457Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T17:03:18.024388Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-15T17:03:18.036378Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-15T17:03:18.180434Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T17:03:18.225456Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T17:03:18.226625Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T17:03:18.605193Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T17:03:18.607741Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T17:03:18.609172Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T17:03:19.449184Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 20288
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+17:03:19 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+7ff726600858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff72579e92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff72579e6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff7265e47fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff72682ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff726811d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff7267c3f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff7266dcb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff72556dd5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff7255a9754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff7255af199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff7255ade10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff7255466b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff72555aa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff72555941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff72555d196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff7255554b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff725555adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff726ca4cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T17:31:30.202226Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T17:31:30.206003Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T17:31:30.206366Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 22340
+2024-10-15T17:31:30.398278Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T17:31:31.464804Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T17:31:32.050651Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T17:31:32.403966Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T17:31:32.457979Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T17:31:32.459360Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T17:31:32.763803Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T17:31:32.765752Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T17:31:32.766790Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T17:31:33.840898Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 21836
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+17:31:33 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+2024-10-15T17:31:34.070019Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T17:31:34.070184Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T17:31:34.070289Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 15832
+2024-10-15T17:31:34.384862Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+7ff6d9e60858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff6d8ffe92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff6d8ffe6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff6d9e447fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff6da08ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6da071d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6da023f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6d9f3cb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff6d8dcdd5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff6d8e09754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff6d8e0f199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff6d8e0de10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff6d8da66b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff6d8dbaa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff6d8db941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff6d8dbd196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff6d8db54b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff6d8db5adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff6da504cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T17:31:34.584584Z 1 [ERROR] [MY-012611] [InnoDB] Operating system error number 32 in a file operation.
+2024-10-15T17:31:34.588856Z 1 [ERROR] [MY-012615] [InnoDB] The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2024-10-15T17:31:45.176214Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T17:31:45.798602Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T17:31:46.136294Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T17:31:46.183313Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T17:31:46.184801Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T17:31:46.366926Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T17:31:46.369850Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T17:31:46.372085Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T17:31:47.375767Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 5500
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+17:31:47 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+7ff6d9e60858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff6d8ffe92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff6d8ffe6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff6d9e447fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff6da08ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6da071d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6da023f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6d9f3cb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff6d8dcdd5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff6d8e09754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff6d8e0f199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff6d8e0de10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff6d8da66b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff6d8dbaa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff6d8db941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff6d8dbd196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff6d8db54b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff6d8db5adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff6da504cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T17:52:07.660568Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T17:52:07.662844Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T17:52:07.663123Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 13384
+2024-10-15T17:52:07.839082Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T17:52:08.726630Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T17:52:09.405197Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T17:52:09.738930Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T17:52:09.790284Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T17:52:09.791329Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T17:52:10.087203Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T17:52:10.089418Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T17:52:10.090901Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T17:52:10.968073Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 11432
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+17:52:10 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+7ff71da30858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff71cbce92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff71cbce6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff71da147fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff71dc5ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff71dc41d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff71dbf3f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff71db0cb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff71c99dd5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff71c9d9754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff71c9df199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff71c9dde10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff71c9766b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff71c98aa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff71c98941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff71c98d196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff71c9854b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff71c985adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff71e0d4cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T18:23:45.597252Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T18:23:45.599618Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T18:23:45.599897Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 14712
+2024-10-15T18:23:45.893941Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T18:23:47.391666Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T18:23:48.325471Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T18:23:48.675812Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T18:23:48.720393Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T18:23:48.721706Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T18:23:49.215423Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T18:23:49.217900Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T18:23:49.218981Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T18:23:50.019648Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 11928
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+18:23:50 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+7ff605c10858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff604dae92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff604dae6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff605bf47fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff605e3ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff605e21d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff605dd3f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff605cecb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff604b7dd5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff604bb9754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff604bbf199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff604bbde10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff604b566b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff604b6aa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff604b6941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff604b6d196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff604b654b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff604b65adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff6062b4cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T18:41:16.073856Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T18:41:16.078028Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T18:41:16.078426Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 6436
+2024-10-15T18:41:16.284481Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T18:41:17.899560Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T18:41:19.597405Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T18:41:20.116523Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T18:41:20.170112Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T18:41:20.171889Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T18:41:20.832961Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T18:41:20.835324Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T18:41:20.836443Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T18:41:21.684946Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 6200
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+18:41:21 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+7ff64b160858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff64a2fe92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff64a2fe6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff64b1447fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff64b38ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff64b371d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff64b323f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff64b23cb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff64a0cdd5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff64a109754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff64a10f199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff64a10de10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff64a0a66b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff64a0baa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff64a0b941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff64a0bd196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff64a0b54b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff64a0b5adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff64b804cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T18:51:30.572999Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T18:51:30.575935Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T18:51:30.576391Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 19396
+2024-10-15T18:51:30.778759Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T18:51:31.743062Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T18:51:32.375097Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T18:51:32.596705Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T18:51:32.632218Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T18:51:32.633395Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T18:51:32.988585Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T18:51:32.989882Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T18:51:32.990703Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T18:51:33.859433Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 18580
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+18:51:33 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+7ff79fb00858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff79ec9e92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff79ec9e6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff79fae47fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff79fd2ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff79fd11d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff79fcc3f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff79fbdcb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff79ea6dd5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff79eaa9754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff79eaaf199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff79eaade10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff79ea466b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff79ea5aa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff79ea5941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff79ea5d196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff79ea554b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff79ea55adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff7a01a4cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T18:56:45.564816Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T18:56:45.567926Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T18:56:45.568486Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 18768
+2024-10-15T18:56:45.776510Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T18:56:46.686173Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T18:56:47.289473Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T18:56:47.603841Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T18:56:47.638692Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T18:56:47.639618Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T18:56:47.969539Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T18:56:47.970846Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T18:56:47.971645Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T18:56:48.861746Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 11028
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+18:56:48 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+7ff60b570858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff60a70e92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff60a70e6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff60b5547fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff60b79ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff60b781d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff60b733f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff60b64cb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff60a4ddd5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff60a519754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff60a51f199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff60a51de10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff60a4b66b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff60a4caa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff60a4c941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff60a4cd196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff60a4c54b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff60a4c5adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff60bc14cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T19:27:31.287851Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T19:27:31.290847Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T19:27:31.291563Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 16012
+2024-10-15T19:27:31.572912Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T19:27:33.113414Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T19:27:34.334480Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2024-10-15T19:27:34.738758Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T19:27:34.788181Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T19:27:34.789788Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T19:27:35.132133Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 0  MySQL Community Server - GPL.
+2024-10-15T19:27:35.134913Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2024-10-15T19:27:35.136649Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T19:27:35.977513Z 0 [ERROR] [MY-013183] [InnoDB] Assertion failure: trx0sys.cc:643:UT_LIST_GET_LEN(trx_sys->mysql_trx_list) == 0 thread 16448
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/8.0/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+19:27:35 UTC - mysqld got exception 0x16 ;
+Most likely, you have hit a bug, but this error can also be caused by malfunctioning hardware.
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+7ff6bc940858    mysqld.exe!?my_print_stacktrace@@YAXPEBEK@Z()
+7ff6bbade92b    mysqld.exe!?print_fatal_signal@@YAXH@Z()
+7ff6bbade6f3    mysqld.exe!?my_server_abort@@YAXXZ()
+7ff6bc9247fa    mysqld.exe!?my_abort@@YAXXZ()
+7ff6bcb6ca99    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6bcb51d0e    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6bcb03f81    mysqld.exe!?deallocate@?$allocator@V?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@std@@@std@@QEAAXQEAV?$sub_match@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@std@@@2@_K@Z()
+7ff6bca1cb6a    mysqld.exe!?set_compression_level@Zstd_comp@compression@transaction@binary_log@@UEAAXI@Z()
+7ff6bb8add5b    mysqld.exe!?ha_finalize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+7ff6bb8e9754    mysqld.exe!?memcached_shutdown@@YAXXZ()
+7ff6bb8ef199    mysqld.exe!?plugin_unlock_list@@YAXPEAVTHD@@PEAPEAUst_plugin_int@@_K@Z()
+7ff6bb8ede10    mysqld.exe!?plugin_shutdown@@YAXXZ()
+7ff6bb8866b9    mysqld.exe!?check_valid_arguments_processor@Item_func@@UEAA_NPEAE@Z()
+7ff6bb89aa5a    mysqld.exe!?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ()
+7ff6bb89941f    mysqld.exe!?setup_conn_event_handler_threads@@YAXXZ()
+7ff6bb89d196    mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+7ff6bb8954b5    mysqld.exe!?mysql_service@@YAHPEAX@Z()
+7ff6bb895adb    mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+7ff6bcfe4cb4    mysqld.exe!?set_timespec_nsec@@YAXPEAUtimespec@@_K@Z()
+7ffa44d5257d    KERNEL32.DLL!BaseThreadInitThunk()
+7ffa4620af28    ntdll.dll!RtlUserThreadStart()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2024-10-15T20:20:02.365293Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T20:20:02.368988Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T20:20:02.369436Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 13956
+2024-10-15T20:20:02.822086Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T20:20:04.604684Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T20:20:05.635781Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T20:20:05.682742Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T20:20:05.684237Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T20:20:06.039728Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-15T20:20:06.040074Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-15T20:21:07.724894Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T20:21:07.727963Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T20:21:07.728247Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 13696
+2024-10-15T20:21:07.932534Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T20:21:07.936463Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T20:21:07.938225Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T20:21:07.941104Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T20:21:07.943655Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T20:21:07.944792Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T20:21:07.955806Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T20:22:44.757155Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T20:22:44.759568Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T20:22:44.759848Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 4552
+2024-10-15T20:22:44.984109Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T20:22:44.988556Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T20:22:44.990402Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T20:22:44.994087Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T20:22:44.996958Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T20:22:44.998516Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T20:22:45.017321Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T20:22:47.623049Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T20:22:47.623182Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T20:22:47.623260Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 8768
+2024-10-15T20:22:47.690558Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T20:22:47.693754Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T20:22:47.695120Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T20:22:47.696534Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T20:22:47.698601Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T20:22:47.699767Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T20:22:47.706208Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T21:18:06.258446Z 38 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-10-15T21:21:36.331240Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T21:21:36.331342Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T21:21:36.331418Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 17552
+2024-10-15T21:21:36.517213Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T21:21:36.522546Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T21:21:36.524821Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T21:21:36.530215Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T21:21:36.545084Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T21:21:36.546755Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T21:21:36.569266Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T21:21:39.455307Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T21:21:39.455481Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T21:21:39.455582Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 11728
+2024-10-15T21:21:39.602264Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T21:21:39.605481Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T21:21:39.606924Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T21:21:39.609971Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T21:21:39.614002Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T21:21:39.615495Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T21:21:39.627101Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T21:29:33.521965Z 43 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-10-15T21:29:33.552283Z 44 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-10-15T21:41:01.753167Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T21:41:01.753258Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T21:41:01.753339Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 17732
+2024-10-15T21:41:01.848985Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T21:41:01.852335Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T21:41:01.853860Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T21:41:01.856205Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T21:41:01.858947Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T21:41:01.860314Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T21:41:01.870523Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T22:36:37.035867Z 66 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-10-15T22:43:45.302870Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T22:43:45.304644Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T22:43:45.304879Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 6776
+2024-10-15T22:43:45.482329Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T22:43:46.989771Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-10-15T22:43:48.199585Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-10-15T22:43:48.213740Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-10-15T22:43:48.354140Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-10-15T22:43:48.393750Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-10-15T22:43:48.395167Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-10-15T22:43:48.819437Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-10-15T22:43:48.820391Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-10-15T22:43:50.519063Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T22:43:50.519170Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T22:43:50.519263Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 17992
+2024-10-15T22:43:50.684425Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T22:43:50.692665Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T22:43:50.694586Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T22:43:50.696362Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T22:43:50.698926Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T22:43:50.700014Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T22:43:50.718529Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T22:43:53.323512Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T22:43:53.323605Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T22:43:53.323685Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 11980
+2024-10-15T22:43:53.387621Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T22:43:53.390274Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T22:43:53.391358Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T22:43:53.392943Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T22:43:53.397451Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T22:43:53.398589Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T22:43:53.406744Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-10-15T22:44:47.437829Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-15T22:44:47.437971Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-10-15T22:44:47.438083Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 19688
+2024-10-15T22:44:47.649173Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-10-15T22:44:47.661433Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T22:44:47.665395Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-10-15T22:44:47.668420Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-10-15T22:44:47.672450Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-10-15T22:44:47.673702Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-10-15T22:44:47.694213Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.

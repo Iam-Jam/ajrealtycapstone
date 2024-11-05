@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles can go here */
+.object-cover {
+    object-fit: cover;
+    object-position: center;
+}
+
+@supports (backdrop-filter: blur(1px)) {
+    .backdrop-blur-md {
+      backdrop-filter: blur(12px);
+    }
+  }
